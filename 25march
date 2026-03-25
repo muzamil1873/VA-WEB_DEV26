@@ -1,1 +1,15 @@
 
+document.write("hello all  <br>");
+document.write("welcome to class <br>")
+let num1=22;
+let num2=12;
+let num3=37;
+let num4=16;
+let num5=32;
+let num6=10;
+let result1 =num1+num2
+let result2 =num3-num5
+let result3 =num4*num6
+document.writeln("<b>the addition of two numbers are :</b>"+result1)
+document.writeln("<br><br><b>the subtraction of two numbers are :</b>"+result2)
+document.writeln("<br><br><b>the multiplition of two numbers are :</b>"+result3)
